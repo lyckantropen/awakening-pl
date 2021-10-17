@@ -108,7 +108,10 @@ Zaczął zatem rozmawiać z ludźmi i przepytywać ich, szalenie ich przy tym fr
 - Myślę, że to, co jest naprawdę ważne, Sokratesie!
 - Dobrze. Czym jest zatem ta wiedza o tym, co jest naprawdę ważne?
 - To chyba mądrość, Sokratesie.
-- Aha! Zatem aby znaleźć szczęście, należy wpierw pielęgnować mądrość! Powiedz zatem jak ją pielęgnować i czym ona jest! Wtedy rozmówca wpada w osłupienie. Nieruchomieje. Wpada w stan, w którym nie może już dalej odpowiadać. Wpada w stan zwany _aporią_. Współcześni Sokratesowi porównywali to do użądlenia przez płaszczkę lub ulegnięcia urokowi czarodzieja. Nie wiedzą, co jest grane!
+- Aha! Zatem aby znaleźć szczęście, należy wpierw pielęgnować mądrość! Powiedz zatem jak ją pielęgnować i czym ona jest!
+- Ach...
+
+Wtedy rozmówca wpada w osłupienie. Nieruchomieje. Wpada w stan, w którym nie może już dalej odpowiadać. Wpada w stan zwany _aporią_. Współcześni Sokratesowi porównywali to do użądlenia przez płaszczkę lub ulegnięcia urokowi czarodzieja. Nie wiedzą, co jest grane!
 
 Można na to zareagować mówiąc, że Sokrates jest jedynie sceptykiem. Próbuje pokazać ludziom, że niczego nie wiedzą, bo zależy mu jedynie na pokazaniu, że bogowie mają rację i nikt poza nimi nie posiada żadnej mądrości, itd. To zbytnie uproszczenie. Myślę, że Sokrates jest dużo bardziej wyrafinowany. Sokrates stara się wywołać u rozmówcy olśnienie. W pewnym sensie ucieleśnia Rewolucję Osiową. Stara się sprawić, byśmy zdali sobie sprawę z tego jak dalece wszyscy, mnie włączając, wciskami sobie nieustannie _bullshit_. Dlaczego? Bo są rzeczy, za którymi pędzimy, są dla nas wyraziste, widzimy je na wyciągnięcie ręki: szczęście, sława! Są dla nas wyraziste, podążamy za nimi, wkładamy w to wysiłek na długo zanim zrozumiemy, dlaczego to robimy. Na długo zanim pojmiemy co się naprawdę dzieje. Nieustannie czynimy się podatnymi na _bullshit_, ponieważ napędzają nas potężne motywy, których wyrazistość w daleko przekracza nasze zrozumienie ich prawdy czy ich rzeczywistości. Nieustannie, wszyscy wciskamy sobie _bullshit_.
 
