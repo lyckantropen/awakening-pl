@@ -95,7 +95,7 @@ Zaczął zatem rozmawiać z ludźmi i przepytywać ich, szalenie ich przy tym fr
 - Czemu robisz zakupy?
 - Oj, bo chcę mieć te rzeczy!
 - Tylko dlaczego ich pragniesz?
-- Bo uczynią mnie szczęśliwym? I tutaj Sokrates się rozkręca:
+- Bo uczynią mnie szczęśliwym? - I tutaj Sokrates się rozkręca.
 - O! Zatem pewnie wiesz, czym jest szczęście!
 - Cóż, Sokratesie, szczęście to chyba przyjemność. A te rzeczy dadzą mi przyjemność!
 - Ale czy to możliwe, by sprawić sobie przyjemność, ale mimo wszystko znaleźć się w okropnej sytuacji, której naprawdę nie chciałeś?
@@ -104,8 +104,8 @@ Zaczął zatem rozmawiać z ludźmi i przepytywać ich, szalenie ich przy tym fr
 - Oj, wiesz, to uzyskiwanie tego, co dla nas najważniejsze!
 - To oznacza, że musimy mieć wiedzę. Czy jakąkolwiek?
 - Nie, tylko tego, co ważne!
-- Co jest naprawdę ważne, czy tylko to, co my uważamy za ważne?
-- Myślę, że to, co jest naprawdę ważne, Sokratesie!
+- Tego, co jest naprawdę ważne, czy tylko tego, co my uważamy za ważne?
+- Myślę, że tego, co jest naprawdę ważne, Sokratesie!
 - Dobrze. Czym jest zatem ta wiedza o tym, co jest naprawdę ważne?
 - To chyba mądrość, Sokratesie.
 - Aha! Zatem aby znaleźć szczęście, należy wpierw pielęgnować mądrość! Powiedz zatem jak ją pielęgnować i czym ona jest!
@@ -113,7 +113,7 @@ Zaczął zatem rozmawiać z ludźmi i przepytywać ich, szalenie ich przy tym fr
 
 Wtedy rozmówca wpada w osłupienie. Nieruchomieje. Wpada w stan, w którym nie może już dalej odpowiadać. Wpada w stan zwany _aporią_. Współcześni Sokratesowi porównywali to do użądlenia przez płaszczkę lub ulegnięcia urokowi czarodzieja. Nie wiedzą, co jest grane!
 
-Można na to zareagować mówiąc, że Sokrates jest jedynie sceptykiem. Próbuje pokazać ludziom, że niczego nie wiedzą, bo zależy mu jedynie na pokazaniu, że bogowie mają rację i nikt poza nimi nie posiada żadnej mądrości, itd. To zbytnie uproszczenie. Myślę, że Sokrates jest dużo bardziej wyrafinowany. Sokrates stara się wywołać u rozmówcy olśnienie. W pewnym sensie ucieleśnia Rewolucję Osiową. Stara się sprawić, byśmy zdali sobie sprawę z tego jak dalece wszyscy, mnie włączając, wciskami sobie nieustannie _bullshit_. Dlaczego? Bo są rzeczy, za którymi pędzimy, są dla nas wyraziste, widzimy je na wyciągnięcie ręki: szczęście, sława! Są dla nas wyraziste, podążamy za nimi, wkładamy w to wysiłek na długo zanim zrozumiemy, dlaczego to robimy. Na długo zanim pojmiemy co się naprawdę dzieje. Nieustannie czynimy się podatnymi na _bullshit_, ponieważ napędzają nas potężne motywy, których wyrazistość w daleko przekracza nasze zrozumienie ich prawdy czy ich rzeczywistości. Nieustannie, wszyscy wciskamy sobie _bullshit_.
+Można na to zareagować mówiąc, że Sokrates jest jedynie sceptykiem. Próbuje pokazać ludziom, że niczego nie wiedzą, bo zależy mu jedynie na pokazaniu, że bogowie mają rację i nikt poza nimi nie posiada żadnej mądrości, itd. To zbytnie uproszczenie. Myślę, że Sokrates jest dużo bardziej wyrafinowany. Sokrates stara się wywołać u rozmówcy olśnienie. W pewnym sensie ucieleśnia Rewolucję Osiową. Stara się sprawić, byśmy zdali sobie sprawę z tego jak dalece wszyscy, mnie włączając, wciskamy sobie nieustannie _bullshit_. Dlaczego? Bo są rzeczy, za którymi pędzimy, są dla nas wyraziste, widzimy je na wyciągnięcie ręki: szczęście, sława! Są dla nas wyraziste, podążamy za nimi, wkładamy w to wysiłek na długo zanim zrozumiemy, dlaczego to robimy. Na długo zanim pojmiemy co się naprawdę dzieje. Nieustannie czynimy się podatnymi na _bullshit_, ponieważ napędzają nas potężne motywy, których wyrazistość w daleko przekracza nasze zrozumienie ich prawdy czy ich rzeczywistości. Nieustannie, wszyscy wciskamy sobie _bullshit_.
 
 Rozmowa z Sokratesem prowokuje u ludzi jedną z dwóch reakcji. Jedni się buntują, nie chcą się tego o sobie dowiadywać i złoszczą się na niego. Jednak drudzy doznają olśnienia. Zdają sobie sprawę, że muszą się przemienić. Muszą znaleźć sposób, by to, co jest dla nich istotne szło w parze z tym, co prawdziwe. By jedno wspomagało drugie i na odwrót.
 
