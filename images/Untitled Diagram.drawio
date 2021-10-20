@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T13:01:34.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="hwXhfEjviqMpM9PQVzuu" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T13:04:43.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="laPU23jGTwVPHqa9BTjP" version="15.5.6" type="github">
   <diagram id="h3XiX5L2xC7716TNH4we" name="Page-1">
     <mxGraphModel dx="1260" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -430,7 +430,7 @@
         <mxCell id="xyvLPHj3RRTKYlfgmULw-336" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF0000;gradientColor=none;rotation=30;" vertex="1" parent="xyvLPHj3RRTKYlfgmULw-334">
           <mxGeometry x="34" y="8" width="4" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="xyvLPHj3RRTKYlfgmULw-339" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyvLPHj3RRTKYlfgmULw-337" target="xyvLPHj3RRTKYlfgmULw-336">
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-339" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="xyvLPHj3RRTKYlfgmULw-337" target="xyvLPHj3RRTKYlfgmULw-336">
           <mxGeometry x="80" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="xyvLPHj3RRTKYlfgmULw-337" value="ŚMIERĆ W HAMILTON, RAK W LEWYM PŁUCU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -874,11 +874,38 @@
         <mxCell id="xyvLPHj3RRTKYlfgmULw-143" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF0000;gradientColor=none;rotation=30;" vertex="1" parent="xyvLPHj3RRTKYlfgmULw-141">
           <mxGeometry x="34" y="8" width="4" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="xyvLPHj3RRTKYlfgmULw-341" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyvLPHj3RRTKYlfgmULw-340" target="xyvLPHj3RRTKYlfgmULw-324">
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-341" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="xyvLPHj3RRTKYlfgmULw-340" target="xyvLPHj3RRTKYlfgmULw-324">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xyvLPHj3RRTKYlfgmULw-340" value="ŚMIERĆ W TORONTO,&lt;br&gt;RAK W OBU PŁUCACH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-342" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#33FF33;gradientColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="411" y="1488" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-343" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF0000;gradientColor=none;rotation=10;" vertex="1" parent="1">
+          <mxGeometry x="411" y="1506" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-344" value="ŻYCIE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1480" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-345" value="ŚMIERĆ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1498" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-346" value="NIE ZAPALIĆ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="116" y="1520" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-347" value="ZAPALIĆ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1675" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-348" value="NIE ZAPALIĆ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1829" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-349" value="ZAPALIĆ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="129" y="1984" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xyvLPHj3RRTKYlfgmULw-350" value="NIE ZAPALIĆ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1260" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
