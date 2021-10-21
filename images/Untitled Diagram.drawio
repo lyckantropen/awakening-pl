@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T14:28:16.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="iLSs_C6aI8rl1-fd94FP" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T14:29:55.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="W0CtpmNGt1_4YNaM0hv3" version="15.5.6" type="github">
   <diagram id="h3XiX5L2xC7716TNH4we" name="Page-1">
     <mxGraphModel dx="1521" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1010,6 +1010,14 @@
         </mxCell>
         <mxCell id="KQOKyWiwMK6b_8UveWx6-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQOKyWiwMK6b_8UveWx6-18" target="KQOKyWiwMK6b_8UveWx6-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQOKyWiwMK6b_8UveWx6-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQOKyWiwMK6b_8UveWx6-18" target="xyvLPHj3RRTKYlfgmULw-364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQOKyWiwMK6b_8UveWx6-30" value="NAUCZANIE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KQOKyWiwMK6b_8UveWx6-29">
+          <mxGeometry x="-0.0444" y="16" relative="1" as="geometry">
+            <mxPoint x="21" y="14" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KQOKyWiwMK6b_8UveWx6-18" value="WIEDZA O SOBIE" style="whiteSpace=wrap;html=1;fillColor=#E3E3E3;" vertex="1" parent="1">
           <mxGeometry x="340" y="775" width="120" height="60" as="geometry" />
