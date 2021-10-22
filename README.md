@@ -2,7 +2,7 @@
 
 _Zamieszczam tutaj własne, nieautoryzowane tłumaczenie [cyklu wykładów prof. Johna Vervaeke pod tytułem "Awakening From the Meaning Crisis"](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ). Całość praw autorskich do oryginału przypada pierwotnemu autorowi. Moje tłumaczenie nie jest pozbawione zmian redakcyjnych, mających na celu ułatwić odbiór tych wykładów w formie pisanej. Czasem zmiany te obejmują zmiany w kilku zdaniach naraz, pominięcie niektórych zdań, łączenie ich lub przeredagowywanie całych akapitów. Robię to z poczuciem odpowiedzialności i z troską o zachowanie intencji autora. Śródtytuły i podziały akapitowe pochodzą ode mnie i mają na celu ułatwienie śledzenia tekstu. Rysunki dodałem samodzielnie na podstawie rysunków wykonywanych przez autora w trakcie prowadzenia wykładu._
 
-## Wprowadzenie do cyklu wykładów
+## Wprowadzenie do kryzysu sensu
 
 [![Introduction](http://img.youtube.com/vi/ncd6q9uIEdw/0.jpg)](http://www.youtube.com/watch?v=ncd6q9uIEdw "Introduction")
 
