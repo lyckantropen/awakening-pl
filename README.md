@@ -1,6 +1,6 @@
 # Przebudzenie z kryzysu sensu
 
-*Zamieszczam tutaj własne, nieautoryzowane tłumaczenie cyklu wykładów prof. [Johna Vervaeke pod tytułem "Awakening From the Meaning Crisis"](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ). Całość praw autorskich do oryginału przypada pierwotnemu autorowi.*
+*Zamieszczam tutaj własne, nieautoryzowane tłumaczenie cyklu wykładów [prof. Johna Vervaeke pod tytułem "Awakening From the Meaning Crisis"](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ). Całość praw autorskich do oryginału przypada pierwotnemu autorowi.*
 
 ## Spis treści
 

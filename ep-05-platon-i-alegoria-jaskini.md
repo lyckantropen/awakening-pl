@@ -1,5 +1,7 @@
 # Odcinek 5: Platon i alegoria Jaskini
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/neDutbcedUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Witajcie w piątym odcinku "Przebudzenia z kryzysu sensu".
 
 ## Podsumowanie poprzedniego odcinka
@@ -130,5 +132,5 @@ Zobaczcie, czego Platon dokonuje. Przemieszczanie się między światem iluzji a
 
 Ta przypowieść - to rozumiem przez prawdziwy mit! To nie jest opowieść z przeszłości. Idziecie zobaczyć "Matrix" dlatego, i dlatego nadal się go ogląda i o nim dyskutuje, że to mit. On was woła. Przemawia do was, bo traktuje o odwiecznych problemach, przed którymi stajecie. Problemem stałego konfliktu w waszej psychice. Problemem uwięzienia w iluzji, braku kontaktu z rzeczywistością. Przedstawia możliwość uwolnienia i samotranscendencji, uzyskania spełnienia i sensu w życiu. To mit mądrości, który jest odwiecznie stosowny, bo nie opowiada o przeszłości. Opowiada o tym, co się dzieje w was tu i teraz.
 
-Chciałbym, abyście zauważyli parę rzeczy. Po pierwsze to, jak rozum i duchowość nie są tutaj sobie przeciwstawne. Są nierozerwalnie powiązane. Zauważcie, jak Platon zestawia Sokratesa z Pitagorasem. Sokratesa, bo on uczy jak "człowiek" może nauczać "lwa", jak zdać sobie sprawę z własnej głupoty. Pitagorasa, bo jest tu samotranscendencja, wznoszenie się ponad samych siebie, radykalna przemiana świadomości, o której tak wiele opowiadał. Jest to tak urzekający, wzbogacający i wzmacniający mit - odwieczna przypowieść - że stanie się nieustannie powracającym motywem w historii Zachodu. Będzie się do niego wracać wielokrotnie.
+Chciałbym, abyście zauważyli parę rzeczy. Po pierwsze to, jak rozum i duchowość nie są tutaj sobie przeciwstawne. Są nierozerwalnie powiązane. Zauważcie też, jak Platon zestawia Sokratesa z Pitagorasem. Sokratesa, bo on uczy jak "człowiek" może nauczać "lwa", jak zdać sobie sprawę z własnej głupoty. Pitagorasa, bo jest tu samotranscendencja, wznoszenie się ponad samych siebie, radykalna przemiana świadomości, o której tak wiele opowiadał. Jest to tak urzekający, wzbogacający i wzmacniający mit - odwieczna przypowieść - że stanie się nieustannie powracającym motywem w historii Zachodu. Będzie się do niego wracać wielokrotnie.
 

@@ -1,5 +1,7 @@
 # Odcinek 2: Przepływ, metafora i rewolucja osiowa
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aF9HeXg65AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Witajcie z powrotem. Jestem John Vervaeke, a to jest cykl wykładów na temat budzenia się z kryzysu sensu.
 
 ## Podsumowanie poprzedniego odcinka

@@ -1,5 +1,7 @@
 # Odcinek 3: Nieprzerwany Kosmos i gramatyka świata współczesnego
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C1AaqD8t3pk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Witajcie znów w "Przebudzeniu z kryzysu sensu". To nasz trzeci raz razem.
 
 ## Podsumowanie poprzedniego odcinka
