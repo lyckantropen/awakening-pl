@@ -1,6 +1,6 @@
 # Odcinek 5: Platon i alegoria Jaskini
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/neDutbcedUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Episode 5](http://img.youtube.com/vi/neDutbcedUY/0.jpg)](http://www.youtube.com/watch?v=neDutbcedUY "Episode 5")
 
 Witajcie w piątym odcinku "Przebudzenia z kryzysu sensu".
 

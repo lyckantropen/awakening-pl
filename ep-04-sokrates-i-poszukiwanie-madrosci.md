@@ -1,6 +1,6 @@
 # Odcinek 4: Sokrates i poszukiwanie mądrości
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lhl51bZQlM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Episode 4](http://img.youtube.com/vi/Lhl51bZQlM8/0.jpg)](http://www.youtube.com/watch?v=Lhl51bZQlM8 "Episode 4")
 
 Witajcie ponownie w "Przebudzeniu z kryzysu sensu". To odcinek czwarty.
 

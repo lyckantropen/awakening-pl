@@ -1,6 +1,6 @@
 # Odcinek 1: Wprowadzenie
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/54l8_ewcOlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Episode 1](http://img.youtube.com/vi/54l8_ewcOlY/0.jpg)](http://www.youtube.com/watch?v=54l8_ewcOlY "Episode 1")
 
 Witajcie. W tym cyklu wykładów postaram się zebrać praktycznie cały mój dorobek. Nazywam się John Vervaeke. Jestem adiunktem na Uniwersytecie w Toronto, jestem członkiem Wydziału Psychologii oraz Programu Kognitywistyki. Zajmuję się również dydaktyką w programie "Psychologia buddyzmu i zdrowie psychiczne". Wydałem sporo filmów na różne tematy, niektórzy z Was mogli widzieć niektóre z nich. Ale tym, co chcę osiągnąć w tym cyklu wykładów, jest zebranie tego wszystkiego i przedstawienie ogólnego, unifikującego stanowiska, którym mam nadzieję pokazać związki pomiędzy zagadnieniami, które być może już znacie. Wszystko zaczęło się, gdy zainteresowałem się pewnym szczególnym zjawiskiem. Zainteresowało mnie, że najwyraźniej istnieje coraz większa zbieżność pomiędzy ludźmi zainteresowanymi buddyzmem, a tymi zainteresowanymi kognitywistyką. O tym, czym jest kognitywistyka, porozmawiamy sobie trochę później. Natomiast część z tego już znacie ze świata wokół siebie, ponieważ właśnie doświadczamy czegoś, co zwane jest "rewolucją mindfulness".
 
