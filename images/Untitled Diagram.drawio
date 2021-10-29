@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T06:51:11.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.104 Safari/537.36" etag="7f-WKP8TMmG7u3_PxQnS" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T09:20:26.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.104 Safari/537.36" etag="KTCwo8SWxGhgLoONPCea" version="15.6.2" type="github">
   <diagram id="h3XiX5L2xC7716TNH4we" name="Page-1">
     <mxGraphModel dx="1521" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1404,6 +1404,22 @@
             <mxPoint x="35.598793549294285" y="23.8" as="sourcePoint" />
             <mxPoint x="65.57672495922631" y="26" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X1lPGw5IWRPC5GGyP12i-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/life-of-amazon-outline/340/tree_nature_environment_forest_natural_wood-128.png;strokeColor=default;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="116" y="3310" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="X1lPGw5IWRPC5GGyP12i-58" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;curved=1;endSize=9;strokeWidth=2;" edge="1" parent="1" source="X1lPGw5IWRPC5GGyP12i-57" target="X1lPGw5IWRPC5GGyP12i-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="3280" />
+              <mxPoint x="264" y="3280" />
+              <mxPoint x="264" y="3480" />
+              <mxPoint x="180" y="3480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X1lPGw5IWRPC5GGyP12i-59" value="STWARZA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="244" y="3370" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
