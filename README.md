@@ -21,3 +21,4 @@ Zatem to złożone i trudne zagadnienie. Nie ma prostych odpowiedzi. Musimy prze
 3. [Nieprzerwany Kosmos i gramatyka świata współczesnego](ep-03-nieprzerwany-kosmos-i-gramatyka-swiata-wspolczesnego.md)
 4. [Sokrates i poszukiwanie mądrości](ep-04-sokrates-i-poszukiwanie-madrosci.md)
 5. [Platon i alegoria Jaskini](ep-05-platon-i-alegoria-jaskini.md)
+6. [Arystoteles, Kant i ewolucja](ep-06-arystoteles-kant-i-ewolucja.md)
