@@ -1,5 +1,7 @@
 # Odcinek 9: Spostrzegawczość
 
+[![Episode 9](http://img.youtube.com/vi/jkWNBdBDyoE/0.jpg)](http://www.youtube.com/watch?v=jkWNBdBDyoE "Episode 9")
+
 Witajcie z powrotem w "Przebudzeniu z Kryzysu Sensu".
 
 ## Podsumowanie poprzedniego odcinka
