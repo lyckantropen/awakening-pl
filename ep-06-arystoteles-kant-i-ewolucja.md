@@ -98,7 +98,7 @@ Musimy sobie zdać sprawę z czegoś na temat tej dyskusji o możliwościach. By
 
 Gdy ją zatrzymam, czy niszczę całą energię kinetyczną? Otóż energia kinetyczna została energią potencjalną. Jeżeli zasada zachowania masy i energii jest prawdziwa, również prawdziwa jest potencjalność. Spójrzcie na to, coś z Newtona:
 
-![](https://render.githubusercontent.com/render/math?math=F=m\cdot a)
+<img src="https://render.githubusercontent.com/render/math?math=F=m\cdot a" width=200px>
 
 Czy to jest zdarzenie? Czy jest to coś, co dzieje się o, tam, w tej chwili? Czy to się zdarza w każdy wtorek o czwartej? To nie jest zdarzenie. To jest sposób, w jaki kształtują się okoliczności. Nakłada ograniczenia na to, co jest w świecie możliwe. Dyskutowanie o realnej potencjalności to nie dyskutowanie o fikcji czy abstrakcji, to dyskutowanie o czymś, co jest nieodłączną częścią bieżącej nauki.
 
