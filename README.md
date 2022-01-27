@@ -24,3 +24,4 @@ Zatem to złożone i trudne zagadnienie. Nie ma prostych odpowiedzi. Musimy prze
 6. [Arystoteles, Kant i ewolucja](ep-06-arystoteles-kant-i-ewolucja.md)
 7. [Światopogląd Arystotelesa i Erich Fromm](ep-07-swiatopoglad-arystotelesa-i-erich-fromm.md)
 8. [Budda i mindfulness](ep-08-budda-i-mindfulness.md)
+9. [Spostrzegawczość](ep-09-spostrzegawczosc.md)
