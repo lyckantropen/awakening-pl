@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T07:34:11.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.88 Safari/537.36" etag="8s0n1KIin6figPiQl2g9" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T08:38:47.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.88 Safari/537.36" etag="LCwgHMrdGNJlVQrgS7Vc" version="16.5.5" type="github">
   <diagram id="h3XiX5L2xC7716TNH4we" name="Page-1">
-    <mxGraphModel dx="1525" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1525" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2028,6 +2028,9 @@
         </mxCell>
         <mxCell id="fSkkn4SGkE98I77TBpl_-15" value="PRZYCZYNOWOŚĆ" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="7760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fSkkn4SGkE98I77TBpl_-18" value="$$F=m\cdot a$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="7910" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
