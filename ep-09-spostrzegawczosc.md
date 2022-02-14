@@ -68,7 +68,7 @@ Musicie jednak wiedzieć, że pomimo iż jestem w stanie je przedstawić, a wy z
 
 Dla przykładu - to właśnie robimy w nauce! Przyjmijmy, że dowiedziałem się wielu różnych faktów, uzyskuję pewien wzorzec i odnajduję sposób na ich połączenie, a następnie używam tego wzorca by spojrzeć w świat głębiej. Oto przykład:
 
-<img src="https://render.githubusercontent.com/render/math?math=F=m\cdot a" width=200px>
+![Drugie prawo Newtona](images/ii-prawo-newtona.svg)
 
 Znalazłem wzorzec, który pozwala mi zgłębić świat! Nie przyglądam się już tym poszczególnym elementom - sile, masie i przyspieszeniu. Połączyłem je, a to pozwala mi spojrzeć w świat głębiej.
 
