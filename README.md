@@ -25,3 +25,4 @@ Zatem to złożone i trudne zagadnienie. Nie ma prostych odpowiedzi. Musimy prze
 7. [Światopogląd Arystotelesa i Erich Fromm](ep-07-swiatopoglad-arystotelesa-i-erich-fromm.md)
 8. [Budda i mindfulness](ep-08-budda-i-mindfulness.md)
 9. [Spostrzegawczość](ep-09-spostrzegawczosc.md)
+10. [Świadomość](ep-10-swiadomosc.md)
