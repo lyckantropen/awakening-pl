@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-14T08:04:04.292Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 Safari/537.36" etag="q3yGyN5ZjcR6sUfbr8lE" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-16T12:22:49.521Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.126 Safari/537.36" etag="9s4E5Iy12dI0lobyurBS" version="20.2.2" type="github">
   <diagram id="h3XiX5L2xC7716TNH4we" name="Page-1">
-    <mxGraphModel dx="889" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="543" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2152,16 +2152,22 @@
         <mxCell id="fSkkn4SGkE98I77TBpl_-60" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=21;rotation=-210;" parent="fSkkn4SGkE98I77TBpl_-57" vertex="1">
           <mxGeometry x="54" y="-15" width="11.602209944751381" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mdhq9M51sQFlT2CwFV8C-3" value="RELACJA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="mdhq9M51sQFlT2CwFV8C-1" target="mdhq9M51sQFlT2CwFV8C-2">
+        <mxCell id="mdhq9M51sQFlT2CwFV8C-3" value="RELACJA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="mdhq9M51sQFlT2CwFV8C-1" target="mdhq9M51sQFlT2CwFV8C-2" edge="1">
           <mxGeometry x="-0.0062" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mdhq9M51sQFlT2CwFV8C-1" value="ŚWIAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mdhq9M51sQFlT2CwFV8C-1" value="ŚWIAT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="8280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mdhq9M51sQFlT2CwFV8C-2" value="JA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mdhq9M51sQFlT2CwFV8C-2" value="JA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="401" y="8280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmpfgPUapip9kEfNqerq-1" value="&lt;b&gt;PŁYNNOŚĆ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="8400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmpfgPUapip9kEfNqerq-3" value="&lt;b&gt;&lt;font color=&quot;#ffcc99&quot;&gt;PŁYNNOŚĆ&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="8400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
